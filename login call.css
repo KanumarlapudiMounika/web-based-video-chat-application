@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+    head,body{
+    margin:200px;
+    padding:00px;
+    background-color: skyblue;
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    }
+    .name{
+        text-align:center;
+        font-size:30px;
+        font-color:pink;    
+    }
+    .input{
+        align-content: center;
+        font-family: 'Times New Roman';
+        margin-top: 20px;
+        margin-bottom: 20px;
+        padding:25px;
+        margin:27px;
+        font-size:large;
+        display:block;
+    }
+    .register{
+            font-color:pink;
+            padding: 15px 32px;
+            text-align: center;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+    }
+</body>
+</html>
